@@ -1,8 +1,8 @@
 ### Hello, I am Basit Hussain 👋
 
 
-- 🔭 I’m currently studing on Brac University
-- 🌱 I’m currently learning Algoritms, DLD, SQL, and Tablu
+- 🔭 I’m currently studing at Brac University
+- 🌱 I’m currently learning Algoritms, DLD, SQL, and Tableau
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Ml
 - 💬 Ask me about Python, R, Java, SQL, Excel
