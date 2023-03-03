@@ -26,4 +26,5 @@ Skills: Python/ C/ C++/ Java / R/SQL
 
 ![GitHub metrics](https://metrics.lecoq.io/BasitHussain5)  
 
-![Profile views](https://gpvc.arturio.dev/BasitHussain5)  
+![Profile views](https://gpvc.arturio.dev/BasitHussain5) 
+
