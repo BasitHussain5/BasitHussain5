@@ -2,7 +2,9 @@
 
 ### Hi there 👋, I am Basit Hussain 👋
 
-Hi there! I'm a data science enthusiast and computer science undergrad at BRAC University, equipped with impressive teamwork, leadership, and communication skills. I spend my days crunching numbers in C, C++, Python, Java, R, and SQL, and in my free time, I capture breathtaking photos.
+I am very enthusiastic about problem-solving, and I also have a keen interest in the field of AI & ML. Currently, I am working on developing my problem-solving skills and exploring new areas of technology.
+
+When I am not working I usually spend my time on Photography.
 
 Skills: Python/ C/ C++/ Java / R/SQL
 
