@@ -22,9 +22,5 @@ Skills: Python/ C/ C++/ Java / R/SQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BasitHussain5&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BasitHussain5)  
-
-![GitHub metrics](https://metrics.lecoq.io/BasitHussain5)  
-
 ![Profile views](https://gpvc.arturio.dev/BasitHussain5) 
 
