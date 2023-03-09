@@ -1,6 +1,6 @@
 ![](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/331116604_597160195200499_2742102993927609899_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=LknqjRGm1GYAX8PZoK8&_nc_ht=scontent.fdac157-1.fna&oh=00_AfAKD5EIscBtjZqh4rA3B0E1tb4raVyrlmO7dcQhf16zpA&oe=63FC8046)
 
-### Hi there 👋, I am Basit Hussain 👋
+### Hi there 👋, I am Basit Hussain
 
 I am very enthusiastic about problem-solving, and I also have a keen interest in the field of AI & ML. Currently, I am working on developing my problem-solving skills and exploring new areas of technology.
 
