@@ -15,7 +15,7 @@ Skills: Python/ C/ C++/ Java / R/SQL
 - 💬 Ask me about Data Science & ML 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/basit-hussain-cs/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/basithussain.pk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCOjEsvlvJrXVecLFxGlt4Kw)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/basit-hussain-cs/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCOjEsvlvJrXVecLFxGlt4Kw)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasitHussain5)](https://github.com/anuraghazra/github-readme-stats)
